@@ -1,6 +1,6 @@
-**RECIPIE**<br>
-Now, lets get cooking!<br>
-Steps:
+**RECIPIE**<br><br>
+Now, lets get cooking!<br><br>
+**Steps:**
 
     1: Preheat oven to 350 degrees F. Lightly oil a 9×13 baking dish or coat with nonstick spray
     
